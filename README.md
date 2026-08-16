@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/742915b4-561f-46f2-85c3-20a9f748ad99" alt="IMG_7174" width="500" />
 
 
-![Profile views](https://komarev.com/ghpvc/?username=BishalJena&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=BishalJena&color=green)
